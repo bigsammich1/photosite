@@ -1,5 +1,5 @@
 ---
-description: My photos
+description: My photos for my DMA Lite Project.
 #lastmod: 2026-06-09
 title: Ian's Gallery
 menus:
